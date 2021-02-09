@@ -7,7 +7,13 @@ date: 2021-02-02
 labels:
   - WOD
 ---
+BrowserHistory1-3 were pretty challenging.
 
+For BrowserHistory1, I tried to follow the steps on my own without looking at the screencast. Everything was going well under I reached the section where I needed to add a link and table of content. I was stumped and didn't know how to write the code. So what I did was that I decided do a little research and google it. I found that w3school.com is a really good site that lists alot of html stuff that would be useful in this class. I found the code used for links and then wrote it in VS Code. I then compare what I wrote with what was on the screencast and it was correct. This browserhistory took me 3 tries before I could get to 20 minutes. 
+
+For BrowserHistory2, I basically followed with how I did BrowserHistory1. I tried to follow the steps on my own and googling how to add what the steps were asking. Then I would compare what I wrote with the screencast. What was different in BrowserHistory2 was that my style.css wasn't working properly. Even though I linked everything correctly and wrote all the codes correctly, only half of the html were being linked back to my index.html. For example, changing the font in style.css didn't work but changing the colors or structuring the paragraph columns and images worked. So I decided to put the code for the font internally into the index.html file instead of externally linking it.
+
+BrowswerHistory3 was just a combination of what I did and the problems that arised in BrowserHistory1 and BrowserHistory2
 
 
 
