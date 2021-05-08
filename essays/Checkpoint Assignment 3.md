@@ -32,3 +32,5 @@ I am doing this assignment by myself
 
 <b>How are you approaching Assignment 3 differently than Assignment 2?</b>
 I am approaching assignment 3 differently as in I am reading more into the documentation of codes and trying to understand how it works. Also, I have took the time to plan out how my website will be design and function.
+
+
