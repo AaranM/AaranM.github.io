@@ -9,7 +9,7 @@ labels:
 ---
 <b>Show what each page will look like. The pages do not have to be “functional” but the design should clear. Here is an example PPT prototype</b>
 
-<a hef="https://youtu.be/kdjZxCWZM6s"> My screencast</a>
+<a hef="https://youtu.be/kdjZxCWZM6s"> My screencast https://youtu.be/kdjZxCWZM6s</a>
 
 <b>Describe your design for your site’s shopping cart. That is, will it be a separate page that the user can view and edit, or will it be integrated into the product pages? If so, describe in detail how this will work on your site. Provide several examples of using the cart.</b>
 
